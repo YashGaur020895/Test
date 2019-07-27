@@ -9,6 +9,6 @@ public class Enquiry {
 	@RequestMapping("/getdata")
 	public String m1()
 	{
-		return "Customer Relationship Service";
+		return "Customer Relationship Services";
 	}
 }
